@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CRUD_estudiantes2</string>
+    <string name="hint_est">Nombre del estudiante</string>
+    <string name="hint_correo">Correo del estudiante</string>
+    <string name="hint_curso">Numero de curso</string>
+    <string name="txt_btn_enviar">Guardar\n</string>
+    <string name="txt_btn_listar">Listar</string>
+    <string name="txt_btn_actualizar">actualizar</string>
+    <string name="txt_btn_env">Guardar</string>
+    <string name="nombre_est">Obligatorio</string>
+    <string name="nombre_es">nombre del estudiante</string>
+    <string name="id_es">id-consecutivo</string>
+    <string name="correo_est">correo electronico</string>
+    <string name="curso_est">numero de curso</string>
+    <string name="nombre_estu">nombres del estudiantes</string>
+    <string name="txt_btn_eliminar">Eliminar</string>
+</resources>

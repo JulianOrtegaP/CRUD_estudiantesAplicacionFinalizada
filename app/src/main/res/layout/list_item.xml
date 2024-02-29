@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/base_10">
+
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+     >
+
+        <TextView
+            android:id="@+id/tvIdEst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/id_es"
+            />
+
+        <TextView
+            android:id="@+id/tvNombreEst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nombre_estu"
+            />
+
+        <TextView
+            android:id="@+id/tvcorreoest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/correo_est"
+            />
+
+
+        <TextView
+            android:id="@+id/tvCursoEst"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/curso_est"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnEliminar"
+        android:layout_gravity="center"
+        android:text="@string/txt_btn_eliminar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        />
+
+</LinearLayout>
